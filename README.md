@@ -8,3 +8,10 @@ python yeniprosms.py
 
 
 not:YAPTIKLARINIZDAN SİZ SORUMLUSUNUZ
+
+
+test edilen terminaller
+
+TERMUX
+KALİ LİNUX
+CLOUD SHELL
