@@ -1,2 +1,6 @@
 # turkeysmssenderpro
-türkiye için sms bomber toolu +90
+git clone https://github.com/Kaanjava32/turkeysmssenderpro.git
+
+cd yeniprosms
+
+python yeniprosms.py
