@@ -1,6 +1,8 @@
 import time
 from termcolor import colored
 
+print('\n' * 50)
+
 # Alıcının telefon numarasını kullanıcıdan isteyin
 to_number = input("Lütfen telefon numarasını girin (+90xxxxxxxxxx): ")
 
